@@ -67,7 +67,7 @@ var question = new Vue({
                 sec = sec < 10 ? "0" + sec : sec;
                 that.cutDown = min + ":" + sec;
                 that.useTime = parseInt((600 - ltime) / 60 % 60) + "分" + parseInt((600 - ltime)%60) + "秒";
-            }, 1000);
+            }, 0);
         },
         nextBtn() {
             if (this.current < 10) {
