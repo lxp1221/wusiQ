@@ -85,7 +85,7 @@
         "answer": "A"
     }, {
         "quIndex": 4,
-        "question": "第一次国共合作正式建立的标志是()。",
+        "question": "第一次国共合作正式形成的标志是()。",
         "option": [{
             "oindex": 0,
             "olable": "A",
@@ -97,11 +97,11 @@
         }, {
             "oindex": 2,
             "olable": "C",
-            "otext": "国民党一大"
+            "otext": "国民党一大的召开"
         }, {
             "oindex": 3,
             "olable": "D",
-            "otext": "中共三大"
+            "otext": "中共三大的召开"
         }],
         "answer": "C"
     }, {
