@@ -48,12 +48,12 @@ body {
   font-weight: 400;
 }
 .index-content .container .title-wrap .main-title {
-  height: 140px;
+  height: 130px;
   background-image: url(../img/wheat-ears.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom;
-  font-size: 30px;
+  font-size: 25px;
   font-family: 汉仪综艺体简;
   letter-spacing: 20px;
   text-indent: 20px;
