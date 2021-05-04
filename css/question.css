@@ -55,6 +55,7 @@ body {
   color: #aa463f;
   text-align: justify;
   text-align-last: left;
+  overflow: hidden;
 }
 .index-content .container .answer_wrap .question_wrap .option_wrap {
   width: 80%;
@@ -77,6 +78,7 @@ body {
   letter-spacing: 2px;
   text-indent: 2px;
   line-height: 35px;
+  overflow: hidden;
 }
 .index-content .container .answer_wrap .operate_wrap {
   width: 60%;
