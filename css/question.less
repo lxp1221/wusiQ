@@ -57,7 +57,7 @@ body {
                 #question {
                     width: 70%;
                     height: 135px;
-                    margin:  0 auto;
+                    margin: 0 auto;
                     font-size: 25px;
                     color: #aa463f;
                     text-align: justify;
@@ -140,25 +140,66 @@ body {
                 font-size: 30px;
             }
 
-            .againBtn {
-                margin-top: 50px;
-                width: 60%;
-                height: 80px;
+            .opBtn {
+                margin-top: 30px;
+                width: 50%;
+                height: 40px;
                 border: none;
                 border-radius: 10px;
                 background-color: #aa463f;
                 color: #fff;
                 font-family: 锐字澎湃简;
-                font-size: 30px;
+                font-size: 20px;
                 letter-spacing: 20px;
                 text-indent: 20px;
             }
 
-            .copyright {
-                margin-top: 50px;
-                font-size: 15px;
-                color: #aa463f;
+            .draw_wrap {
+                #draw {
+                    margin-top: 10px;
+                }
+
+                .draw_tip{
+                    margin-top: 5px;
+                    font-size: 20px;
+                }
             }
+
+            .drawpic_wrap{
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                overflow: hidden;
+                background-color: rgba(0, 0, 0, 0.600);
+
+                img{
+                    width: 60%;
+                    margin-top: 50%;
+                }
+
+                h1{
+                    width: 55%;
+                    margin: 0 auto;
+                    padding: 10px;
+                    font-size: 18px;
+                    font-weight: 400;
+                    background-color: #aa463f;
+                    color: #fff;
+
+                }
+            }
+        }
+
+        .copyright {
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            margin-bottom: 90px;
+            width: 375px;
+            font-size: 15px;
+            color: #aa463f;
         }
     }
 }

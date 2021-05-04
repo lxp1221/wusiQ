@@ -49,13 +49,23 @@
                 <h1>你的得分是</h1>
                 <h2>{{score}}</h2>
                 <h2 id="time">用时：{{useTime}}</h2>
-                <button class="againBtn" onclick="location.reload();">再来一次</button>
+                <button class="opBtn" onclick="location.reload();">再来一次</button>
+                <div class="draw_wrap" v-if="score == 100">
+                    <button class="opBtn" @click="drawpicable=true" id="draw">参与抽奖</button>
+                    <div class="draw_tip">请截图本页面后参与抽奖</div>
+                </div>
+                <div class="drawpic_wrap" v-if="drawpicable">
+                    <img src="img/draw_pic.jpg" alt="" srcset="">
+                    <h1>保存本图后在微信中扫码打开</h1>
+                    <button class="opBtn" @click="drawpicable=false" id="draw">点击关闭</button>
+                </div>
                 <div class="copyright">本活动最终解释权归福州大学至诚学院新媒体中心所有</div>
             </div>
+            
         </div>
     </div>
     <script src="js/axios.min.js"></script>
-    <script src="js/vue.js"></script>
+    <script src="js/vue.min.js"></script>
     <script src="js/question.js"></script>
 </body>
 
