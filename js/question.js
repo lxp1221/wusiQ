@@ -24,7 +24,6 @@ var question = new Vue({
             var that = this;
             axios.get("js/questArr.json")
                 .then(function (response) {
-                    console.log(response.data.questionArr);
                     that.quAll = response.data.questionArr;
                     that.arrangeQue();
                 })
