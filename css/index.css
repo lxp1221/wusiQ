@@ -1,0 +1,101 @@
+@font-face {
+  font-family: 锐字澎湃简;
+  src: local("锐字澎湃简"), url("../font/锐字澎湃简.otf") format("opentype");
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background-color: #e5dbc2;
+  display: flex;
+  justify-content: center;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -khtml-user-select: none;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  font-family: 锐字澎湃简;
+}
+.index-content {
+  width: 450px;
+  height: 800px;
+  background: url(../img/bg.png) center;
+  position: relative;
+}
+.index-content .container {
+  width: 450px;
+  height: 800px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-align: center;
+}
+.index-content .container .title-wrap {
+  width: 70%;
+  margin: 100px auto;
+  color: #aa463f;
+  font-weight: 400;
+}
+.index-content .container .title-wrap .main-title {
+  height: 165px;
+  background-image: url(../img/wheat-ears.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom;
+  font-size: 30px;
+  letter-spacing: 20px;
+  text-indent: 20px;
+}
+.index-content .container .title-wrap .sub-title {
+  margin-top: 20px;
+  font-size: 25px;
+  letter-spacing: 20px;
+  line-height: 40px;
+}
+.index-content .container .title-wrap .subhead {
+  height: 30px;
+  background-color: #aa463f;
+  margin-top: 20px;
+  color: #e7dec5;
+  font-size: 25px;
+  letter-spacing: 5px;
+  text-indent: 5px;
+}
+.index-content .container #start {
+  width: 60%;
+  height: 80px;
+  border: none;
+  border-radius: 10px;
+  background-color: #aa463f;
+  color: #fff;
+  font-family: 锐字澎湃简;
+  font-size: 30px;
+  letter-spacing: 30px;
+  text-indent: 30px;
+}
+.index-content .container #start :active {
+  border: 2px solid #aa463f;
+  background-color: #e7dec5;
+  color: #aa463f;
+}
+.index-content .Wtime {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin-bottom: 55px;
+  width: 450px;
+  text-align: center;
+  font-size: 15px;
+  color: #aa463f;
+}
