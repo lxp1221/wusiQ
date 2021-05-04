@@ -32,7 +32,7 @@ var question = new Vue({
         arrangeQue() {
             var i = 0;
             while (i < 10) {
-                var rn = Math.floor(Math.random() * 13);
+                var rn = Math.floor(Math.random() * this.quAll.length);
                 if (this.quIndex.indexOf(rn) == -1) {
                     this.quIndex.push(rn);
                     i++;
