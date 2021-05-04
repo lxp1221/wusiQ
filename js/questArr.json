@@ -131,19 +131,19 @@
         "option": [{
             "oindex": 0,
             "olable": "A",
-            "otext": "1921年7月1日-南京"
+            "otext": "1921年7月1日 南京"
         }, {
             "oindex": 1,
             "olable": "B",
-            "otext": "1921年7月21日-上海"
+            "otext": "1921年7月21日 上海"
         }, {
             "oindex": 2,
             "olable": "C",
-            "otext": "1921年7月23日-上海"
+            "otext": "1921年7月23日 上海"
         }, {
             "oindex": 3,
             "olable": "D",
-            "otext": "1921年7月30日-南京"
+            "otext": "1921年7月30日 南京"
         }],
         "answer": "C"
     }, {
@@ -353,7 +353,7 @@
         }, {
             "oindex": 3,
             "olable": "D",
-            "otext": "农村包围城市：武装夺取政权"
+            "otext": "农村包围城市,武装夺取政权"
         }],
         "answer": "D"
     }, {
