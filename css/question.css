@@ -5,6 +5,7 @@
 * {
   margin: 0;
   padding: 0;
+  outline: none;
 }
 html {
   width: 100vw;
@@ -28,6 +29,9 @@ body {
   background: url(../img/bg.png) center;
   background-size: contain;
   position: relative;
+}
+.index-content .nonedis {
+  opacity: 0;
 }
 .index-content .container {
   width: 375px;
@@ -100,9 +104,6 @@ body {
   letter-spacing: 2px;
   text-indent: 2px;
   line-height: 35px;
-}
-.index-content .container .answer_wrap .operate_wrap .tab_btn_wrap .nonedis {
-  opacity: 0;
 }
 .index-content .container .score_wrap {
   margin-top: 100px;
