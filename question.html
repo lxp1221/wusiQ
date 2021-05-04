@@ -54,7 +54,7 @@
                     <button class="opBtn" @click="drawpicable=true" id="draw">参与抽奖</button>
                     <div class="draw_tip">请截图本页面后参与抽奖</div>
                 </div>
-                <div class="drawpic_wrap" v-if="drawpicable">
+                <div class="drawpic_wrap" v-show="drawpicable">
                     <img src="img/draw_pic.jpg" alt="" srcset="">
                     <h1>保存本图后在微信中扫码打开</h1>
                     <button class="opBtn" @click="drawpicable=false" id="draw">点击关闭</button>
