@@ -99,6 +99,7 @@ var question = new Vue({
         juge(index) {
             this.checked = index;
             this.check[this.current - 1] = index;
+            console.log(this.option[index].olable);
             if (this.option[index].olable == this.quArr[this.current - 1].answer) {
                 this.useAnswer[this.current - 1] = true;
             } else {
