@@ -1,294 +1,840 @@
 {
     "questionArr": [
         {
-            "quIndex":0,
-            "question": "测试问题",
-            "option":[
+            "quIndex": 0,
+            "question": "新文化运动的两大口号是( ) ",
+            "option": [
                 {
-                    "oindex": 0,
-                    "olable": "A",
-                    "otext": "001"
-                }, {
                     "oindex": 1,
-                    "olable": "B",
-                    "otext": "001"
-                }, {
+                    "olable": "A",
+                    "otext": "民主和科学"
+                },
+                {
                     "oindex": 2,
-                    "olable": "C",
-                    "otext": "001"
-                }, {
+                    "olable": "B",
+                    "otext": "新道德和新文学"
+                },
+                {
                     "oindex": 3,
+                    "olable": "C",
+                    "otext": "民权和平等"
+                },
+                {
+                    "oindex": 4,
                     "olable": "D",
-                    "otext": "001"
+                    "otext": "先进和发展"
                 }
             ],
-            "answer" : "A"
-        },
-        {
-            "quIndex":1,
-            "question": "测试问题",
-            "option": [{
-                "oindex": 0,
-                "olable": "A",
-                "otext": "xxxxxxxxxxxxx"
-            }, {
-                "oindex": 1,
-                "olable": "B",
-                "otext": "001"
-            }, {
-                "oindex": 2,
-                "olable": "C",
-                "otext": "001"
-            }, {
-                "oindex": 3,
-                "olable": "D",
-                "otext": "001"
-            }],
             "answer": "A"
         },
         {
-            "quIndex":2,
-            "question": "测试问题",
-            "option": [{
-                "oindex": 0,
-                "olable": "A",
-                "otext": "001"
-            }, {
-                "oindex": 1,
-                "olable": "B",
-                "otext": "001"
-            }, {
-                "oindex": 2,
-                "olable": "C",
-                "otext": "001"
-            }, {
-                "oindex": 3,
-                "olable": "D",
-                "otext": "001"
-            }],
-            "answer": "A"
-        },
-        {
-            "quIndex":3,
-            "question": "测试问题",
-            "option": [{
-                "oindex": 0,
-                "olable": "A",
-                "otext": "001"
-            }, {
-                "oindex": 1,
-                "olable": "B",
-                "otext": "001"
-            }, {
-                "oindex": 2,
-                "olable": "C",
-                "otext": "001"
-            }, {
-                "oindex": 3,
-                "olable": "D",
-                "otext": "001"
-            }],
-            "answer": "A"
-        },
-        {
-            "quIndex":4,
-            "question": "测试问题",
-            "option": [{
-                "oindex": 0,
-                "olable": "A",
-                "otext": "001"
-            }, {
-                "oindex": 1,
-                "olable": "B",
-                "otext": "001"
-            }, {
-                "oindex": 2,
-                "olable": "C",
-                "otext": "001"
-            }, {
-                "oindex": 3,
-                "olable": "D",
-                "otext": "001"
-            }],
-            "answer": "A"
-        },
-        {
-            "quIndex":5,
-            "question": "测试问题",
-            "option": [{
-                "oindex": 0,
-                "olable": "A",
-                "otext": "001"
-            }, {
-                "oindex": 1,
-                "olable": "B",
-                "otext": "001"
-            }, {
-                "oindex": 2,
-                "olable": "C",
-                "otext": "001"
-            }, {
-                "oindex": 3,
-                "olable": "D",
-                "otext": "001"
-            }],
-            "answer": "A"
-        },
-        {
-            "quIndex":6,
-            "question": "测试问题",
-            "option": [{
-                "oindex": 0,
-                "olable": "A",
-                "otext": "001"
-            }, {
-                "oindex": 1,
-                "olable": "B",
-                "otext": "001"
-            }, {
-                "oindex": 2,
-                "olable": "C",
-                "otext": "001"
-            }, {
-                "oindex": 3,
-                "olable": "D",
-                "otext": "001"
-            }],
-            "answer": "A"
-        },
-        {
-            "quIndex":7,
-            "question": "测试问题",
-            "option": [{
-                "oindex": 0,
-                "olable": "A",
-                "otext": "001"
-            }, {
-                "oindex": 1,
-                "olable": "B",
-                "otext": "001"
-            }, {
-                "oindex": 2,
-                "olable": "C",
-                "otext": "001"
-            }, {
-                "oindex": 3,
-                "olable": "D",
-                "otext": "001"
-            }],
-            "answer": "A"
-        },
-        {
-            "quIndex":8,
-            "question": "测试问题",
-            "option":[
+            "quIndex": 0,
+            "question": "( )标志着中国工人阶级开始以独立的政治力量登上了历史舞台。",
+            "option": [
                 {
-                    "oindex": 9,
-                    "olable": "A",
-                    "otext": "001"
-                }, {
                     "oindex": 1,
-                    "olable": "B",
-                    "otext": "001"
-                }, {
+                    "olable": "A",
+                    "otext": "中国共产党的成立"
+                },
+                {
                     "oindex": 2,
-                    "olable": "C",
-                    "otext": "001"
-                }, {
+                    "olable": "B",
+                    "otext": "五四运动"
+                },
+                {
                     "oindex": 3,
+                    "olable": "C",
+                    "otext": "二七大罢工"
+                },
+                {
+                    "oindex": 4,
                     "olable": "D",
-                    "otext": "001"
+                    "otext": "中共一大"
                 }
             ],
-            "answer" : "A"
+            "answer": "B"
         },
-
         {
-            "quIndex":10,
-            "question": "测试问题",
-            "option": [{
-                "oindex": 0,
-                "olable": "A",
-                "otext": "001"
-            }, {
-                "oindex": 1,
-                "olable": "B",
-                "otext": "001"
-            }, {
-                "oindex": 2,
-                "olable": "C",
-                "otext": "001"
-            }, {
-                "oindex": 3,
-                "olable": "D",
-                "otext": "001"
-            }],
+            "quIndex": 0,
+            "question": "农业农村农民问题是全党工作重中之重，（）是解决 “三农”问题的根本途径。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "增大对农村投入"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "城乡发展一体化"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "城镇化"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "脱贫攻坚"
+                }
+            ],
+            "answer": "B"
+        },
+        {
+            "quIndex": 0,
+            "question": "五四运动是()时候爆发的?",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "1919年5月4日"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "1919年5月8日"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "1919年5月10日"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "1919年5月17日"
+                }
+            ],
             "answer": "A"
         },
         {
-            "quIndex":11,
-            "question": "测试问题",
-            "option": [{
-                "oindex": 0,
-                "olable": "A",
-                "otext": "001"
-            }, {
-                "oindex": 1,
-                "olable": "B",
-                "otext": "001"
-            }, {
-                "oindex": 2,
-                "olable": "C",
-                "otext": "001"
-            }, {
-                "oindex": 3,
-                "olable": "D",
-                "otext": "001"
-            }],
+            "quIndex": 0,
+            "question": "第一次国共合作正式建立的标志是()。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "北伐战争的开始"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "黄埔军校的建立"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "国民党一大"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "中共三大"
+                }
+            ],
+            "answer": "C"
+        },
+        {
+            "quIndex": 0,
+            "question": "( )拉开了中国新民主主义革命的帷幕。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "新文化运动"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "五四运动"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "中国共产党成立"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "五卅运动"
+                }
+            ],
+            "answer": " B"
+        },
+        {
+            "quIndex": 0,
+            "question": "( )，中国共产党第一次全国代表大会在( )开幕。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "1921年7月1日-南京"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "1921年7月21日-上海"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "1921年7月23日-上海"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "1921年7月30日-南京"
+                }
+            ],
+            "answer": "C"
+        },
+        {
+            "quIndex": 0,
+            "question": "对京汉铁路工人罢工进行镇压并酿成惨案的军阀是（）",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "张作霖"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "吴佩孚"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "段祺瑞"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "冯国璋"
+                }
+            ],
+            "answer": "B"
+        },
+        {
+            "quIndex": 0,
+            "question": "新民主主义革命的开端是（）",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "鸦片战争"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "辛亥革命"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "太平天国运动"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "五四运动"
+                }
+            ],
+            "answer": "D"
+        },
+        {
+            "quIndex": 0,
+            "question": "中国第一个共产主义小组的建立者是（）",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "陈独秀"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "李大钊"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "毛泽东"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "董必武"
+                }
+            ],
             "answer": "A"
         },
         {
-            "quIndex":12,
-            "question": "测试问题",
-            "option": [{
-                "oindex": 0,
-                "olable": "A",
-                "otext": "001"
-            }, {
-                "oindex": 1,
-                "olable": "B",
-                "otext": "001"
-            }, {
-                "oindex": 2,
-                "olable": "C",
-                "otext": "001"
-            }, {
-                "oindex": 3,
-                "olable": "D",
-                "otext": "001"
-            }],
+            "quIndex": 0,
+            "question": "依法治国是党领导人民治理国家的基本方略,这一方略被写进宪法是在党的",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "十五届四中全会"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "十四大"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "十三届四中全会"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "十五大"
+                }
+            ],
+            "answer": "D"
+        },
+        {
+            "quIndex": 0,
+            "question": "在解放隆化县时,为了炸弹敌人的暗堡,用自己的身体托起炸药包,英勇牺牲,年仅19岁的是()。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "邱少云"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "张思德"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "董存瑞"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "朱瑞"
+                }
+            ],
+            "answer": "C"
+        },
+        {
+            "quIndex": 0,
+            "question": "邓小平在1979年针对党内出现的脱离群众问题,指出：为了整顿党风搞好民风,要先从我们()整起。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "高级干部"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "基层干部"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "中级干部"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "普通党员"
+                }
+            ],
             "answer": "A"
         },
         {
-            "quIndex":13,
-            "question": "测试问题",
-            "option": [{
-                "oindex": 0,
-                "olable": "A",
-                "otext": "001"
-            }, {
-                "oindex": 1,
-                "olable": "B",
-                "otext": "001"
-            }, {
-                "oindex": 2,
-                "olable": "C",
-                "otext": "001"
-            }, {
-                "oindex": 3,
-                "olable": "D",
-                "otext": "001"
-            }],
+            "quIndex": 0,
+            "question": "党对（）的绝对领导，这一根本原则和制度，发端于南昌起义，奠基于三湾改编，定型于古田会议。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "军队"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "工农"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "学生"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "商人"
+                }
+            ],
+            "answer": "A"
+        },
+        {
+            "quIndex": 0,
+            "question": "中国共产党第一个正式章程，是（）通过的《中国共产党章程》。 ",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "党的一大"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "党的二大"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "党的三大"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "党的四大"
+                }
+            ],
+            "answer": "B "
+        },
+        {
+            "quIndex": 0,
+            "question": "（）从组织上确立了党对军队的绝对领导，为建立一支无产阶级领导下的新型人民军队奠定了基础。 ",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "井冈山会师"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "三湾改编"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "古田会议"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "八七会议"
+                }
+            ],
+            "answer": "B"
+        },
+        {
+            "quIndex": 0,
+            "question": "中国革命的道路是（）。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "农村包围城市"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "武装夺取政权"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "城市工人革命"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "农村包围城市：武装夺取政权"
+                }
+            ],
+            "answer": "D"
+        },
+        {
+            "quIndex": 0,
+            "question": "中国抗日战争的起点和中国人民局部抗战开始的标志是（）。 ",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "九一八事变"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "华北事变"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "一、二九运动"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "七七事变"
+                }
+            ],
+            "answer": "A"
+        },
+        {
+            "quIndex": 0,
+            "question": "中国第一个传播马克思主义并主张向俄国十月革命学习的先进分子是（ ）。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "陈独秀"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "李大钊"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "毛泽东"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "瞿秋白"
+                }
+            ],
+            "answer": "B "
+        },
+        {
+            "quIndex": 0,
+            "question": "1920年各地先后建立了共产主义小组，当时建立最早并作为建党发起组的是（ ）共产主义小组。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "北京"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "上海"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "武汉"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "长沙"
+                }
+            ],
+            "answer": "B"
+        },
+        {
+            "quIndex": 0,
+            "question": "中国共产党在（ ）全国代表大会上，第一次提出反帝反封建的民主革命纲领。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "第一次"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "第二次"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "第三次"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "第四次"
+                }
+            ],
+            "answer": "B"
+        },
+        {
+            "quIndex": 0,
+            "question": "中国共产党领导的第一次工人运动高潮的顶点是（ ）大罢工。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "香港海员"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "开滦煤矿工人"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "安源路矿工人"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "京汉铁路工人"
+                }
+            ],
+            "answer": "D"
+        },
+        {
+            "quIndex": 0,
+            "question": "1934 年10月，中央红军开始长征，留在中央根据地坚持游击战争的领导人是（）",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "彭德怀、项英"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "项英、陈毅"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "张国焘、陈毅"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "彭德怀、张国焘"
+                }
+            ],
+            "answer": "B"
+        },
+        {
+            "quIndex": 0,
+            "question": "标志着中国工人阶级开始以独立的政治力量登上历史舞台的事件是（） 。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "中国共产党的成立"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "五四运动"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "二七大罢工"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "卢沟桥事变"
+                }
+            ],
+            "answer": "B"
+        },
+        {
+            "quIndex": 0,
+            "question": "1926年7月9日，北伐战争在（）的口号中正式开始。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "“解放全中国”"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "“先烈之血，主义之花”"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "“打倒列强，除军阀”"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "“外争国权,内惩国贼”"
+                }
+            ],
+            "answer": "C"
+        },
+        {
+            "quIndex": 0,
+            "question": "1964年12月，在第三届全国人大会议上，周恩来代表党中央提出了()。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "1966年将开始执行第三个五年计划"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "四个现代化的构想"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "“三线建设”的计划"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "“一五计划”"
+                }
+            ],
+            "answer": "B"
+        },
+        {
+            "quIndex": 0,
+            "question": "五四运动开始登上历史舞台的阶段是（）",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "农民阶级"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "地主阶级"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "资产阶级"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "无产阶级"
+                }
+            ],
+            "answer": "D"
+        },
+        {
+            "quIndex": 0,
+            "question": "1919年6月初以后，五四运动的中心是（）",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "上海"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "天津"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "北京"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "长沙"
+                }
+            ],
+            "answer": "A"
+        },
+        {
+            "quIndex": 0,
+            "question": "依法治国首先是（）。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "科学立法"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "依宪治国"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "全民守法"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "党的活动在法律规范之内"
+                }
+            ],
+            "answer": "B"
+        },
+        {
+            "quIndex": 0,
+            "question": "党的基层组织是党在社会基层组织中的（），是党的全部工作和战斗力的基础。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "领导核心"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "战斗堡垒"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "坚强核心"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "中坚力量"
+                }
+            ],
+            "answer": "B"
+        },
+        {
+            "quIndex": 0,
+            "question": "党的思想路线是一切从实际出发，理论联系实际，（），在实践中检验真理和发展真理。",
+            "option": [
+                {
+                    "oindex": 1,
+                    "olable": "A",
+                    "otext": "实事求是"
+                },
+                {
+                    "oindex": 2,
+                    "olable": "B",
+                    "otext": "开拓创新"
+                },
+                {
+                    "oindex": 3,
+                    "olable": "C",
+                    "otext": "解放思想"
+                },
+                {
+                    "oindex": 4,
+                    "olable": "D",
+                    "otext": "求真务实"
+                }
+            ],
             "answer": "A"
         }
     ]
