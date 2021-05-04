@@ -92,6 +92,11 @@ body {
   background-color: #e7dec5;
   color: #aa463f;
 }
+.index-content .container .copyright {
+  margin-top: 20px;
+  font-size: 15px;
+  color: #aa463f;
+}
 .index-content .Wtime {
   position: absolute;
   bottom: 0;
