@@ -18,7 +18,7 @@ var question = new Vue({
         check: [],
         answerAble: false,
         scoreable: false
-    },
+    }, 
     methods: {
         getQuestions: function () {
             var that = this;
